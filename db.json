@@ -16,31 +16,31 @@
       "id": 1,
       "slug": "best-sellers",
       "name": "Best Sellers",
-      "featured_image": "https://"
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-bestsellers.jpg"
     },
     {
       "id": 2,
       "slug": "pancit",
       "name":"Pancit/Noodle Dish",
-      "featured_image": "https://"
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-pancit.jpg"
     },
     {
       "id": 3,
       "slug": "food-combination",
       "name":"Food Combination",
-      "featured_image": "https://"
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-combo.jpg"
     },
     {
       "id": 4,
       "slug": "pork",
       "name":"Pork",
-      "featured_image": "https://"
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-pork.jpg"
     },
     {
       "id": 5,
       "slug": "appetizers-soups-rice",
       "name":"Appetizers, Soups & Rice",
-      "featured_image": "https://"
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-appetizers.jpg"
     }
   ]
 }
