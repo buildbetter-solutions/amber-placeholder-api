@@ -2,12 +2,12 @@
   "branches": [
     {
       "id": 1,
-      "name": "Marikina"
+      "name": "Marikina",
       "address": "2/F Door 16-17 Marietta Arcade No. 17 Gil Fernando Avenue, Marikina City"
     },    
     {
       "id": 2,
-      "name": "Quezon City"
+      "name": "Quezon City",
       "address": "Ground Floor Golden Victoria Bldg. Sct. Limbaga St. cor Tomas Morato St. Brgy. Laging Handa, Quezon City"
     }
   ],
