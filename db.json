@@ -11,5 +11,36 @@
       "address": "Ground Floor Golden Victoria Bldg. Sct. Limbaga St. cor Tomas Morato St. Brgy. Laging Handa, Quezon City"
     }
   ],
-  "product_categories": []
+  "product_categories": [
+    {
+      "id": 1,
+      "slug": "best-sellers",
+      "name": "Best Sellers"
+    },
+    {
+      "id": 2,
+      "slug": "pancit",
+      "name":"Pancit/Noodle Dish"
+    },
+    {
+      "id": 2,
+      "slug": "food-combination",
+      "name":"Food Combination"
+    },
+    {
+      "id": 2,
+      "slug": "pancit-value-package",
+      "name":"Pancit Value Package"
+    },
+    {
+      "id": 2,
+      "slug": "rice-value-package",
+      "name":"Rice Value Package"
+    },
+    {
+      "id": 2,
+      "slug": "appetizers-soups-rice",
+      "name":"Appetizers, Soups & Rice"
+    }
+  ]
 }
