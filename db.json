@@ -42,5 +42,56 @@
       "name":"Appetizers, Soups & Rice",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-appetizers.jpg"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "slug": "malabon",
+      "name": "Pancit Malabon",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/malabon.jpg",
+      "categories": [1,2]
+    },
+    {
+      "id": 2,
+      "slug": "spaghetti",
+      "name": "Spaghetti",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/spaghetti.jpg",
+      "categories": [1,2]
+    },
+    {
+      "id": 3,
+      "slug": "bbq",
+      "name": "Pork BBQ",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/bbq.jpg",
+      "categories": [1,4]
+    },
+    {
+      "id": 4,
+      "slug": "shanghai",
+      "name": "Lumpia Shanghai",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/shanghai.jpg",
+      "categories": [1,4]
+    },
+    {
+      "id": 5,
+      "slug": "fried-ubod",
+      "name": "Fried Lumpia Ubod",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/fried-ubod.jpg",
+      "categories": [5]
+    },
+    {
+      "id": 6,
+      "slug": "chopsuey",
+      "name": "Chopsuey",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/chopsuey.jpg",
+      "categories": [5]
+    },
+    {
+      "id": 7,
+      "slug": "six-sik",
+      "name": "Six Sik Combo",
+      "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/six-sik.jpg",
+      "categories": [2,3]
+    }
   ]
 }
