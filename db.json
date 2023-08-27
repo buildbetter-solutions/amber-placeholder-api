@@ -15,32 +15,32 @@
     {
       "id": 1,
       "slug": "best-sellers",
-      "name": "Best Sellers"
+      "name": "Best Sellers",
+      "featured_image": "https://"
     },
     {
       "id": 2,
       "slug": "pancit",
-      "name":"Pancit/Noodle Dish"
+      "name":"Pancit/Noodle Dish",
+      "featured_image": "https://"
     },
     {
-      "id": 2,
+      "id": 3,
       "slug": "food-combination",
-      "name":"Food Combination"
+      "name":"Food Combination",
+      "featured_image": "https://"
     },
     {
-      "id": 2,
-      "slug": "pancit-value-package",
-      "name":"Pancit Value Package"
+      "id": 4,
+      "slug": "pork",
+      "name":"Pork",
+      "featured_image": "https://"
     },
     {
-      "id": 2,
-      "slug": "rice-value-package",
-      "name":"Rice Value Package"
-    },
-    {
-      "id": 2,
+      "id": 5,
       "slug": "appetizers-soups-rice",
-      "name":"Appetizers, Soups & Rice"
+      "name":"Appetizers, Soups & Rice",
+      "featured_image": "https://"
     }
   ]
 }
