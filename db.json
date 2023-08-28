@@ -48,6 +48,8 @@
       "id": 1,
       "slug": "malabon",
       "name": "Pancit Malabon",
+      "price": 100.00,
+      "unit": "bilao",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/malabon.jpg",
       "categories": [1,2]
     },
@@ -55,6 +57,8 @@
       "id": 2,
       "slug": "spaghetti",
       "name": "Spaghetti",
+      "price": 100.00,
+      "unit": "bilao",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/spaghetti.jpg",
       "categories": [1,2]
     },
@@ -62,6 +66,8 @@
       "id": 3,
       "slug": "bbq",
       "name": "Pork BBQ",
+      "price": 100.00,
+      "unit": "order of 5pcs",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/bbq.jpg",
       "categories": [1,4]
     },
@@ -69,6 +75,8 @@
       "id": 4,
       "slug": "shanghai",
       "name": "Lumpia Shanghai",
+      "price": 100.00,
+      "unit": "order of 5pcs",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/shanghai.jpg",
       "categories": [1,4]
     },
@@ -76,6 +84,8 @@
       "id": 5,
       "slug": "fried-ubod",
       "name": "Fried Lumpia Ubod",
+      "price": 100.00,
+      "unit": "order of 2 pcs",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/fried-ubod.jpg",
       "categories": [5]
     },
@@ -83,6 +93,8 @@
       "id": 6,
       "slug": "chopsuey",
       "name": "Chopsuey",
+      "price": 100.00,
+      "unit": "order",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/chopsuey.jpg",
       "categories": [5]
     },
@@ -90,6 +102,8 @@
       "id": 7,
       "slug": "six-sik",
       "name": "Six Sik Combo",
+      "price": 100.00,
+      "unit": "order",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/six-sik.jpg",
       "categories": [2,3]
     }
