@@ -16,12 +16,14 @@
       "id": 1,
       "slug": "best-sellers",
       "name": "Best Sellers",
+      "is_featured": true,
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-bestsellers.jpg"
     },
     {
       "id": 2,
       "slug": "pancit",
       "name":"Pancit/Noodle Dish",
+      "is_featured": true,
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-pancit.jpg"
     },
     {
@@ -34,6 +36,7 @@
       "id": 4,
       "slug": "pork",
       "name":"Pork",
+      "is_featured": true,
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/cat-pork.jpg"
     },
     {
