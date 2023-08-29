@@ -51,7 +51,35 @@
       "price": 70.00,
       "unit": "bilao",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/malabon.jpg",
-      "categories": [1,2]
+      "categories": [1,2],
+      "customization_options": {
+        "size": {
+          "label": "Size",
+          "is_required": true,
+          "options": [
+            {
+              "value": "solo",
+              "label": "Solo Pack",
+              "price_addon": 0
+            },
+            {
+              "value": "small",
+              "label": "Small Bilao",
+              "price_addon": 500
+            },
+            {
+              "value": "medium",
+              "label": "Medium Bilao",
+              "price_addon": 750
+            },
+            {
+              "value": "large",
+              "label": "Large Bilao",
+              "price_addon": 1000
+            }
+          ]
+        }
+      }
     },
     {
       "id": 2,
@@ -60,7 +88,35 @@
       "price": 80.00,
       "unit": "bilao",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/spaghetti.jpg",
-      "categories": [1,2]
+      "categories": [1,2],
+      "customization_options": {
+        "size": {
+          "label": "Size",
+          "is_required": true,
+          "options": [
+            {
+              "value": "solo",
+              "label": "Solo Pack",
+              "price_addon": 0
+            },
+            {
+              "value": "small",
+              "label": "Small Bilao",
+              "price_addon": 500
+            },
+            {
+              "value": "medium",
+              "label": "Medium Bilao",
+              "price_addon": 750
+            },
+            {
+              "value": "large",
+              "label": "Large Bilao",
+              "price_addon": 1000
+            }
+          ]
+        }
+      }
     },
     {
       "id": 3,
@@ -69,7 +125,30 @@
       "price": 260.00,
       "unit": "order of 5pcs",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/bbq.jpg",
-      "categories": [1,4]
+      "categories": [1,4],
+      "customization_options": {
+        "size": {
+          "label": "Size",
+          "is_required": true,
+          "options": [
+            {
+              "value": "5-pcs",
+              "label": "5 PCS",
+              "price_addon": 0
+            },
+            {
+              "value": "10-pcs",
+              "label": "10 PCS",
+              "price_addon": 260
+            },
+            {
+              "value": "15-pcs",
+              "label": "15 PCS",
+              "price_addon": 520
+            }
+          ]
+        }
+      }
     },
     {
       "id": 4,
@@ -78,7 +157,25 @@
       "price": 190.00,
       "unit": "order of 10pcs",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/shanghai.jpg",
-      "categories": [1,4]
+      "categories": [1,4],
+      "customization_options": {
+        "size": {
+          "label": "Size",
+          "is_required": true,
+          "options": [
+            {
+              "value": "10-pcs",
+              "label": "10 PCS",
+              "price_addon": 0
+            },
+            {
+              "value": "20-pcs",
+              "label": "20 PCS",
+              "price_addon": 190
+            }
+          ]
+        }
+      }
     },
     {
       "id": 5,
@@ -87,7 +184,25 @@
       "price": 300.00,
       "unit": "order of 5pcs",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/fried-ubod.jpg",
-      "categories": [5]
+      "categories": [5],
+      "customization_options": {
+        "size": {
+          "label": "Size",
+          "is_required": true,
+          "options": [
+            {
+              "value": "5-pcs",
+              "label": "5 PCS",
+              "price_addon": 0
+            },
+            {
+              "value": "10-pcs",
+              "label": "10 PCS",
+              "price_addon": 300
+            }
+          ]
+        }
+      }
     },
     {
       "id": 6,
@@ -96,7 +211,30 @@
       "price": 100.00,
       "unit": "order",
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/chopsuey.jpg",
-      "categories": [5]
+      "categories": [5],
+      "customization_options": {
+        "size": {
+          "label": "Size",
+          "is_required": true,
+          "options": [
+            {
+              "value": "small",
+              "label": "Small",
+              "price_addon": 0
+            },
+            {
+              "value": "medium",
+              "label": "Medium",
+              "price_addon": 200
+            },
+            {
+              "value": "large",
+              "label": "Large",
+              "price_addon": 350
+            }
+          ]
+        }
+      }
     },
     {
       "id": 7,
