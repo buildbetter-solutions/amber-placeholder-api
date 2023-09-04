@@ -248,5 +248,17 @@
       "featured_image": "https://raw.githubusercontent.com/buildbetter-solutions/amber-placeholder-api/main/resources/images/six-sik.jpg",
       "categories": [2,3]
     }
+  ],
+  "discount_codes": [
+    {
+      "id": 1,
+      "code": "free-del",
+      "description": "Free Delivery for purchases amounting at least 2,000 pesos"
+    },
+    {
+      "id": 2,
+      "code": "happyfriday",
+      "description": "10% discount for orders placed every Friday"
+    }
   ]
 }
